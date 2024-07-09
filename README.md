@@ -1,4 +1,5 @@
 Simple Open Close Principle
+Open for extension Close for modification
 
 - Implemented Payment Controller as a example,
-- Stretegy pattern for PaymentStretegy
+- Used Stretegy pattern for PaymentStretegy
